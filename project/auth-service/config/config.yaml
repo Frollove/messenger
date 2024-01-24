@@ -1,0 +1,20 @@
+db:
+  scheme: cproto
+  hostname: 192.168.10.111
+  user: back
+  password: backendgo271023
+  port: 6534
+  path: grant
+http:
+  port: :3308
+redis:
+  ip: 192.168.10.111
+  port: 6379
+email:
+  username: devops@web-gen.ru
+  password: kuwjjqbxuwmtcwvi
+  host: smtp.yandex.ru
+  port: 465
+jwt:
+  domain: bytrip.ru
+  key: bytrip
